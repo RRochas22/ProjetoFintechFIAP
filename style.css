@@ -1,0 +1,88 @@
+
+body {
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+
+button {
+    background-color: #4F772D;
+    color: white;
+    border: none;
+    padding: 9px 20px;
+    width: 320px;
+    font-size: 16px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+div {
+    width: 320px;
+}
+
+.container {
+    width: 420px;
+    height: 500px;
+    background-color: #a6a3a310;
+    border: 2px solid #615f5f31;
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+h2 {
+    color: #4F772D;
+    height: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold  ;
+    font-style:normal;
+}
+
+h4 {
+    color: #ffffff51;
+    height: 60px;
+    justify-content: center;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    font-style:oblique;
+    text-align: center;
+}
+
+p {
+    color: #ffffffbe;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+a {
+    color: #ffffffa7;
+}
+
+.text{
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+}
+
+.text2 {
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+    padding: 15px;
+}
+
+.title {
+    margin-left: 127px;
+}
+
+.topo {
+    justify-content: center;
+    text-align: center;
+}
+.finance {
+    margin-right: 30px;
+}
